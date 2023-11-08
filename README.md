@@ -47,7 +47,11 @@ Make sure you have the following requirements met:
 
 5. Add the API key to **src/services/api-client.ts**
 
-6. Run `npm run dev` to start the web server.
+6. Run the below command to start the web server.
+
+   ```bash
+   npm run dev
+   ```
 
    Open link that shows up in the terminal, with your browser to see the result.
 
