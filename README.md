@@ -43,11 +43,13 @@ Make sure you have the following requirements met:
    npm install
    ```
 
-4. Start the development server
-   ```bash
-   npm start
-   ```
-   Open http://localhost:3000, or any link that shows up in the terminal, with your browser to see the result.
+4. Get a RAWG API key at https://rawg.io/apidocs. You'll have to create an account first.
+
+5. Add the API key to **src/services/api-client.ts**
+
+6. Run `npm run dev` to start the web server.
+
+   Open link that shows up in the terminal, with your browser to see the result.
 
 ## Tech Stack
 
@@ -64,8 +66,6 @@ Want to see Game Hub in action? Check out our live demo [here](https://game-hub-
 ## Screenshots
 
 ![Home Page](./pictures/Home%20page.PNG)
-
-
 
 ![Sort Page](./pictures/Sort%20page.PNG)
 
