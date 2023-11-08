@@ -69,8 +69,8 @@ Want to see Game Hub in action? Check out our live demo [here](https://game-hub-
 
 ## Screenshots
 
-![Home Page](./pictures/Home page.PNG)
-![Sort Page](./pictures/Sort page.PNG)
+![Home Page](<Home page-1.PNG>)
+![Sort Page](<Sort page-1.PNG>)
 
 ## Contributing
 
