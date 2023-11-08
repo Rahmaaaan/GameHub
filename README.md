@@ -5,17 +5,11 @@ Game Hub is a comprehensive web application built using React and TypeScript, de
 ## Features
 
 - **Game Grid:** An organized display of video games in a grid layout for easy browsing. Each cell in the grid represents a game with its corresponding thumbnail.
-
 - **Genre List:** Users can explore games based on their favorite genres, presented as a list of genres to choose from.
-
 - **Platform Selector:** Filter games based on the gaming platform of choice using the Platform Selector.
-
 - **Sort Selector:** Sort games based on various criteria such as popularity and release date using the Sort Selector.
-
 - **Search Input:** A powerful search feature that allows users to find their favorite games directly.
-
 - **Color Mode Switch:** Users can switch between dark mode and light mode based on their preference.
-
 - **Responsive Design:** The application is built with a mobile-first approach and is responsive to different screen sizes.
 
 ## Getting Started
@@ -57,11 +51,11 @@ Make sure you have the following requirements met:
 
 ## Tech Stack
 
-- React.js: Frontend web library
-- TypeScript: A superset of JavaScript adding static types and modern features
-- RAWG API: API service providing game data
-- Chakra UI: UI library for designing the interface
-- react-router-dom: For routing and navigation in the app
+- **React.js** : Frontend web library
+- **TypeScript** : A superset of JavaScript adding static types and modern features
+- **RAWG API** : API service providing game data
+- **Chakra UI** : UI library for designing the interface
+- **react-router-dom** : For routing and navigation in the app
 
 ## Demo
 
@@ -70,6 +64,7 @@ Want to see Game Hub in action? Check out our live demo [here](https://game-hub-
 ## Screenshots
 
 ![Home Page](./pictures/Home%20page.PNG)
+
 ![Sort Page](./pictures/Sort%20page.PNG)
 
 ## Contributing
