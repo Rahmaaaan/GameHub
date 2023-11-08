@@ -67,6 +67,11 @@ Make sure you have the following requirements met:
 
 Want to see Game Hub in action? Check out our live demo [here](https://game-hub-ten-beta.vercel.app/).
 
+## Screenshots
+
+![Home Page](./pictures/home.PNG)
+![Sort Page](./pictures/sort.PNG)
+
 ## Contributing
 
 We value contributions from our community. If you have suggestions for improving our website or spot any issues, please feel free to create a pull request or submit an issue on our GitHub repository. Your feedback is invaluable to us.
