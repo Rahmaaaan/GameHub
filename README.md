@@ -2,6 +2,14 @@
 
 Game Hub is a comprehensive web application built using React and TypeScript, designed to provide gamers with an engaging platform to explore and discover various video games. This project incorporates essential aspects of modern web applications, including responsiveness, accessibility, and efficient state management. It consumes data from the RAWG API, one of the largest video game databases, to provide detailed information about games, including titles, thumbnails, screenshots, videos, and more.
 
+## Technologies Used
+
+- **React.js** : Frontend web library
+- **TypeScript** : A superset of JavaScript adding static types and modern features
+- **RAWG API** : API service providing game data
+- **Chakra UI** : UI library for designing the interface
+- **react-router-dom** : For routing and navigation in the app
+
 ## Features
 
 - **Game Grid:** An organized display of video games in a grid layout for easy browsing. Each cell in the grid represents a game with its corresponding thumbnail.
@@ -55,14 +63,6 @@ Make sure you have the following requirements met:
 
    Open link that shows up in the terminal, with your browser to see the result.
 
-## Tech Stack
-
-- **React.js** : Frontend web library
-- **TypeScript** : A superset of JavaScript adding static types and modern features
-- **RAWG API** : API service providing game data
-- **Chakra UI** : UI library for designing the interface
-- **react-router-dom** : For routing and navigation in the app
-
 ## Demo
 
 Want to see Game Hub in action? Check out our live demo [here](https://game-hub-ten-beta.vercel.app/).
@@ -75,4 +75,27 @@ Want to see Game Hub in action? Check out our live demo [here](https://game-hub-
 
 ## Contributing
 
-We value contributions from our community. If you have suggestions for improving our website or spot any issues, please feel free to create a pull request or submit an issue on our GitHub repository. Your feedback is invaluable to us.
+Contributions to Game Hub are welcome! To contribute, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix:
+
+```bash
+git checkout -b feature/your-feature-name
+```
+
+3. Make changes and commit them:
+
+```bash
+git commit -m "Add your commit message here"
+```
+
+4. Push your changes to your branch:
+
+```bash
+git push origin feature/your-feature-name
+```
+
+5. Create a pull request on the main repository.
+
+Please follow the project's coding guidelines and maintain a clean commit history.
